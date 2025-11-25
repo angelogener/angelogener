@@ -17,7 +17,7 @@ Whether it's building dashboards, exploring long-term trends, or experimenting w
 
 ### 🎧 Spotify Lifetime Study  
 - Analyzed **7 years of Spotify Wrapped data (500+ songs)** using Python to uncover trends in listening consistency, genre shifts, and repeated artists.  
-- Built **two Tableau dashboards**—a trends dashboard and a segmented “music awards” view—showing that **35%** of top songs persisted across multiple years.
+- Built **two Tableau dashboards**, a trends dashboard and a segmented “music awards” view, showing that **35%** of top songs persisted across multiple years.
 
 ### 🤖 Machine Learning Note Classifier  
 - Cleaned and processed **200+ school notes** using Python (Pandas, spaCy).  
