@@ -1,4 +1,4 @@
- 👋 Hi, I'm Angelo Gener  
+##  👋 Hi, I'm Angelo Gener  
 **Data Analyst | HBSc Statistics & Mathematics | Python • SQL • Tableau**
 
 I’m a data analyst who loves turning messy datasets into clean stories.  
