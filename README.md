@@ -24,8 +24,9 @@ Cleaned and processed **200+ school notes** using Python (Pandas, spaCy).
 Contributed feature engineering and supported model experimentation for subject-level classification.
 
 ### 🏐 **VolleyBot Session Scheduler (Early Build)**
-Built a Python + SQL tool to automate team balancing and session scheduling.  
-Reduced registration bottlenecks by **80%** and optimized coordination for **60+ players**.
+Built a Python + SQL tool to automate team balancing and session scheduling.
+Integrated SQL with help from collaborators and deployed the bot with a persistent runtime to keep it running 24/7.
+Reduced registration bottlenecks by 80% and improved coordination for 60+ players.
 
 ---
 
