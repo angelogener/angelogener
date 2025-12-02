@@ -4,6 +4,7 @@
 I’m a data analyst who loves turning messy datasets into clean stories.  
 Whether it's building dashboards, exploring long-term trends, or experimenting with ML models, I enjoy working end-to-end: cleaning → analyzing → visualizing → storytelling
 
+🔗 **[My Resume]([https://linktr.ee/angelogener](https://github.com/angelogener/Resume/blob/main/Resume_Angelo_Gener%20(Dec%202025).pdf))**
 ---
 
 ## 🔧 Technical Skills
