@@ -38,7 +38,6 @@ Whether it's building dashboards, exploring long-term trends, or experimenting w
 ---
 
 ## 📫 Connect with Me   
-🔗 **[My Resume]([https://linktr.ee/angelogener](https://github.com/angelogener/Resume/blob/main/Resume_Angelo_Gener%20(Dec%202025).pdf))**
 🔗 **[LinkedIn](https://www.linkedin.com/in/angelogener/)**  
 🔗 **[Linktree](https://linktr.ee/angelogener)**
 
